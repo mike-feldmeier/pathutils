@@ -2,10 +2,10 @@ var fs   = require('fs');
 var path = require('path');
 
 module.exports = {
-  walk: walk
+  walkFiles: walkFiles
 };
 
-function walk(p, func) {
+function walkFiles(p, func) {
   if(fs.existsSync(p)) {
     var stats = fs.lstatSync(p);
 
