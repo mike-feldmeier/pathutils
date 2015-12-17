@@ -1,0 +1,8 @@
+{
+  "name": "pathutils",
+  "description": "Simple set of path utilities",
+  "version": "1.0.0",
+
+  "dependencies": {
+  }
+}
