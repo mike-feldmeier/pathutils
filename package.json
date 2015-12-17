@@ -1,8 +1,20 @@
 {
   "name": "pathutils",
   "description": "Simple set of path utilities",
-  "version": "1.0.0",
-
+  "homepage": "https://github.com/mike-feldmeier/pathutils",
+  "bugs": "https://github.com/mike-feldmeier/pathutils/issues",
+  "author": "Mike Feldmeier <mike.feldmeier@gmail.com> (http://www.mikefeldmeier.com)",
+  "version": "1.0.1",
+  "license": "MIT",
+  "keywords": [
+    "path",
+    "utilities"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mike-feldmeier/pathutils.git"
+  },
   "dependencies": {
-  }
+  },
+  "main": "pathutils"
 }
