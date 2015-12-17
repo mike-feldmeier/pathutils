@@ -11,7 +11,7 @@ function walkFiles(p, func) {
 
     if(stats.isDirectory()) {
       fs.readdirSync(p).forEach(function(file) {
-        walk(path.join(p, file), func);
+        walkFiles(path.join(p, file), func);
       });
     }
     else if(stats.isFile()) {
