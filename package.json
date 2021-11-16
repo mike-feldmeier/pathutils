@@ -4,7 +4,7 @@
   "homepage": "https://github.com/mike-feldmeier/pathutils",
   "bugs": "https://github.com/mike-feldmeier/pathutils/issues",
   "author": "Mike Feldmeier <mike.feldmeier@gmail.com> (http://www.mikefeldmeier.com)",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "license": "MIT",
   "keywords": [
     "path",
